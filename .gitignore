@@ -1,0 +1,24 @@
+# まず全てを無視
+*
+
+# .gitignore を無視リストから除外
+!.gitignore
+
+# Program.cs を無視リストから除外
+!array_test/
+!array_test/Program.cs
+
+!for_test/
+!for_test/Program.cs
+
+!if_test/
+!if_test/Program.cs
+
+!switch_test/
+!switch_test/Program.cs
+
+!variable_test/
+!variable_test/Program.cs
+
+!while_test/
+!while_test/Program.cs
