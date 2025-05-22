@@ -25,3 +25,9 @@
 
 !method_test/
 !method_test/Program.cs
+
+
+!cs_object_test/
+!cs_object_test/Program.cs
+!cs_object_test/Player.cs
+!cs_object_test/Warrior.cs
